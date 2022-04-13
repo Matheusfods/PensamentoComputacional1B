@@ -1,1 +1,2 @@
-# PensamentoComputacional1B
+# PensamentoComputacional1  
+#  Matheus e Vitor
